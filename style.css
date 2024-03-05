@@ -21,11 +21,38 @@ body{
 }
 @media(max-width:768px){
     .testimage1{
-        min-height: vh;
+    
+        
+        
     }
     .investclass{
-        color: brown;
+    
+        font-size: 40px;
     }
+    .onlineplatform
+    {
+        font-size: 20px;
+    }
+    .Largeststock{
+        font-size: 40px;
+       
+    }
+
+    .textarea{
+        
+        padding-top: 30px
+    }
+    .CroreZerodha{
+        font-size: 18px;
+    }
+    .second1st h1{
+        font-size: 40px;
+
+    }
+    .echosystem1 {
+        
+    }
+
 
 
 }
