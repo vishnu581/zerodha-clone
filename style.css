@@ -19,9 +19,15 @@
 body{
     font-family: 'Inter', sans-serif;
 }
+
+.testimage1
+{
+   background-size: contain;
+    }
 @media(max-width:768px){
     .testimage1{
     
+        background-size: 500px;
         
         
     }
@@ -59,4 +65,7 @@ body{
 .testimage1{
     width: 100%;
     height: auto;
+}
+#footerclass {
+    background-color: antiquewhite;
 }
