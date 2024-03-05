@@ -8,7 +8,7 @@
     margin-top: 30px;
 }
 .row{
-   
+    margin-top: 30px;
 }
 .imagesclass{
     margin-top: 30px;
@@ -17,15 +17,19 @@
     margin-top: 100px;
 }
 body{
-    font-family: 'Inter', sans-serif ;
+    font-family: 'Inter', sans-serif;
 }
-.navbar{
-    height: 58px;
+@media(max-width:768px){
+    .testimage1{
+        min-height: vh;
+    }
+    .investclass{
+        color: brown;
+    }
+
+
 }
-.navbar-brand {
-    padding-left: 87px;
-    padding-top: 10px;
-}
-#firstconatiner{
-    padding-top: 50px;
+.testimage1{
+    width: 100%;
+    height: auto;
 }
