@@ -1,23 +1,9 @@
-.navbar-expand-sm .navbar-collapse{
-    
-}
-.sizeedit{
-    size: 100px;
-}
-.container{
-    margin-top: 30px;
-}
-.row{
-    margin-top: 30px;
-}
-.imagesclass{
-    margin-top: 30px;
-}
-.textarea {
-    margin-top: 100px;
-}
+
 body{
     font-family: 'Inter', sans-serif;
+    background-color: #01c0af;
+    color: #01c0af;
+
 }
 
 .testimage1
@@ -68,4 +54,15 @@ body{
 }
 #footerclass {
     background-color: antiquewhite;
+}
+.mainbody1{
+    padding-top: 50px;
+    background-color: #01c0af;
+}
+.mainbody1 button{
+     height: 50px;
+     width: 80px;
+}
+body{
+
 }
